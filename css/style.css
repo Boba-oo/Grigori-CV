@@ -1,0 +1,60 @@
+body {
+    background-color: darkgrey;
+    font-size: 16;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+}
+.boba {
+    width: 200px;
+    border-radius: 28px;
+}
+.info {
+    color: black;
+    margin: 0;
+    font-style: initial;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.info {
+    margin-bottom: 0;
+}
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+.card {
+    padding: 15px 20px;
+    background-color: blanchedalmond;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.contact h2 {
+text-align: center;
+}
+.btn {
+    background: black;
+    padding: 15px 15px;
+    color: aliceblue;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+}
+.btn :hover {
+    opacity: 0.9;
+}
+/*.social {
+    background-color: chartreuse;
+    margin: 20px;
+    padding: 15px;
+    border: 5px solid rebeccapurple;
+}*/
