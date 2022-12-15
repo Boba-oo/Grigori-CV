@@ -14,9 +14,10 @@ a:hover {
 a:active {
     color: blue;
 }
-/*.boba {
+.boba {
+    wigth: 200px;
     border-radius: 28px;
-}*/
+}
 .info {
     color: black;
     margin: 0;
